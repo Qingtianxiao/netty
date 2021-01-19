@@ -1,4 +1,4 @@
-<<<EAD
+<<<<<<< HEAD
 readMe.txt
 =======
 123i123
