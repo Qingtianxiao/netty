@@ -1,6 +1,7 @@
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\action\EchoServerHandler.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\TimeClient.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\action\Echo.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\FileSystemDoubleCat.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\followMe\Demo2.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\geohash\MysqlDemo1.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\BulkLoadSample.java
@@ -14,6 +15,7 @@ C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\TimeServerHandler.jav
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\WriteSample.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\zookeeper\CreateNodeBackgroundSample.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\Echo\EchoServerHandler.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\URLCat.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\Test.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\TimeClient.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\package-info.java
@@ -27,6 +29,7 @@ C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\zookeeper\CreateSessionSample.j
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\Echo\EchoClient.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\TimeServer.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\TimeClientHandler.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\FileSystemCat.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\followMe\Demo1.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\zookeeper\SetDataSample.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\kafka\SimpleConsumerDemo1.java

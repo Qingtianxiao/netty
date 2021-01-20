@@ -17,6 +17,8 @@ nonaction\TimeClient$1.class
 geohash\RandomLangtitudeAndLatitude.class
 nonaction\multy\Test.class
 zookeeper\NodeCacheSample$1.class
+hdfs\FileSystemDoubleCat.class
+hdfs\URLCat.class
 zookeeper\NodeCacheSample.class
 action\EchoServerHandler.class
 zookeeper\CuratorClient.class
@@ -33,10 +35,12 @@ followMe\Demo1$2.class
 followMe\Demo3.class
 zookeeper\CreateNodeBackgroundSample$1.class
 nonaction\multy\TimeServer.class
+hdfs\FileSystemCat.class
 nonaction\Echo\EchoServerHandler.class
 hdfs\HbaseMapper.class
 nonaction\TimeServer$1.class
 nonaction\TimeClientHandler.class
+nonaction\multy\TimeServer$1.class
 nonaction\multy\TimeServer$ChildChannelHandler.class
 nonaction\Echo\EchoClient$1.class
 hdfs\BulkLoadSample.class
