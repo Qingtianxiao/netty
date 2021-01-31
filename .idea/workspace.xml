@@ -5,22 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98162ef9-6ff5-4fc2-89e0-0e361b6d4385" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/ConfiguratiionPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/FileCopyWithProgress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/InWritableSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MaxTemperatureMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MaxTemperatureReducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/ShowFileStatusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kafka/SimpleProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zookeeper/ZkStat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MaxTemperatureMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MaxTemperatureReducerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WritableSampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MaxTemperatureDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MaxTemperatureWithCounters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MinimalMapReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/NcdcRecordParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/WifteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/readMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P6/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nonaction/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/Callback_MyService_hellow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServiceHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServicePrx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServicePrxHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServicePrxHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDelD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDelM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDisp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceOperationsNC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/file/myservice.ice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testice/myCode/MyServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/action/Echo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/action/Echo.class" afterDir="false" />
@@ -57,7 +71,6 @@
       <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer$ChildChannelHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer$ChildChannelHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServerHandler.class" afterDir="false" />
@@ -69,10 +82,10 @@
       <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/SetDataSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/SetDataSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/lib/junit-3.8.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/netty-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/netty-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +122,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -121,12 +142,15 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1lxSKQFNbMAZKrmUl50s3rXbmgt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -150,9 +174,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MaxTemperatureReducerTest.reduceTest">
-    <configuration name="InWritableSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hdfs.InWritableSample" />
+  <component name="RunManager" selected="Application.Util">
+    <configuration name="MinimalMapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hdfs.MinimalMapReduce" />
       <module name="netty" />
       <extension name="coverage">
         <pattern>
@@ -164,70 +188,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.P6.Solution" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.P6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.P5.Solution" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.P5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nonaction.Test" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nonaction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hdfs.Util" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxTemperatureMapperTest.processesValidRecord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="netty" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxTemperatureMapperTest" />
-      <option name="METHOD_NAME" value="processesValidRecord" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxTemperatureReducerTest.reduceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="netty" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxTemperatureReducerTest" />
-      <option name="METHOD_NAME" value="reduceTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WritableSampleTest.deserialize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="netty" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WritableSampleTest" />
-      <option name="METHOD_NAME" value="deserialize" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WritableSampleTest.serializeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="netty" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WritableSampleTest" />
-      <option name="METHOD_NAME" value="serializeTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MaxTemperatureReducerTest.reduceTest" />
-        <item itemvalue="JUnit.WritableSampleTest.deserialize" />
-        <item itemvalue="JUnit.WritableSampleTest.serializeTest" />
-        <item itemvalue="Application.InWritableSample" />
-        <item itemvalue="JUnit.MaxTemperatureMapperTest.processesValidRecord" />
+        <item itemvalue="Application.Util" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MinimalMapReduce" />
       </list>
     </recent_temporary>
   </component>
@@ -248,8 +280,17 @@
       <workItem from="1610173304226" duration="11617000" />
       <workItem from="1610597613100" duration="22725000" />
       <workItem from="1611369061461" duration="2306000" />
-      <workItem from="1611373072235" duration="8864000" />
+      <workItem from="1611373072235" duration="31262000" />
+      <workItem from="1612069399038" duration="7627000" />
     </task>
+    <task id="LOCAL-00001" summary="添加了MRUnit、可以测试MR；本地环境增加了hadoop；idea完成了升级后的配置">
+      <created>1611393155556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611393155556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +307,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="添加了MRUnit、可以测试MR；本地环境增加了hadoop；idea完成了升级后的配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了MRUnit、可以测试MR；本地环境增加了hadoop；idea完成了升级后的配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,6 +339,16 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ice/java/demo/_HelloPrxI.java</url>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nonaction/Test.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/P5/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

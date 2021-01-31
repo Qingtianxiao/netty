@@ -1,5 +1,6 @@
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\action\EchoServerHandler.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\TimeClient.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\WifteTest.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\action\Echo.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\FileSystemDoubleCat.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\followMe\Demo2.java
@@ -9,7 +10,9 @@ C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\BulkLoadSample.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\kafka\SimpleProducer.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\Echo\EchoServer.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\zookeeper\GetDataSample.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\MinimalMapReduce.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\Echo\EchoClientHandler.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\MaxTemperatureDriver.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\Test.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\TimeClientHandler.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\ShowFileStatusTest.java
@@ -17,9 +20,9 @@ C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\TimeServerHandl
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\MaxTemperatureMapper.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\followMe\Demo3.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\TimeServerHandler.java
-C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\MaxTemperatureMapperTest.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\WriteSample.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\zookeeper\CreateNodeBackgroundSample.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\MaxTemperatureReducer.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\Echo\EchoServerHandler.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\URLCat.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\Test.java
@@ -28,6 +31,7 @@ C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\package-info.ja
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\UserInfo.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\nonaction\multy\TimeServer.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\zookeeper\NodeCacheSample.java
+C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\InWritableSample.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\zookeeper\CuratorClient.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\geohash\RandomLangtitudeAndLatitude.java
 C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\hdfs\HbaseMapper.java

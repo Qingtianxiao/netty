@@ -1,5 +1,6 @@
 hdfs\Test.class
 zookeeper\CreateSessionSample.class
+hdfs\MaxTemperatureDriver.class
 nonaction\TimeClient.class
 geohash\MysqlDemo1.class
 zookeeper\CreateNodeBackgroundSample.class
@@ -16,13 +17,13 @@ kafka\SimpleProducer.class
 action\EchoServerHandler.class
 zookeeper\CuratorClient.class
 nonaction\Echo\EchoClientHandler.class
+hdfs\MinimalMapReduce.class
 nonaction\TimeServerHandler.class
 hdfs\ShowFileStatusTest.class
 followMe\Demo1.class
 nonaction\TimeServer$ChildChannelHandler.class
 followMe\Demo1$2.class
 kafka\SimpleProducer$1.class
-hdfs\MaxTemperatureMapperTest.class
 nonaction\multy\TimeServer.class
 nonaction\Echo\EchoServerHandler.class
 hdfs\HbaseMapper.class
@@ -34,8 +35,10 @@ nonaction\Echo\EchoServer.class
 nonaction\multy\TimeClient$1.class
 nonaction\TimeServer.class
 nonaction\multy\Test.class
+hdfs\WifteTest.class
 zookeeper\NodeCacheSample$1.class
 hdfs\FileSystemDoubleCat.class
+hdfs\InWritableSample.class
 hdfs\URLCat.class
 zookeeper\NodeCacheSample.class
 nonaction\UserInfo.class
@@ -49,6 +52,7 @@ zookeeper\CreateNodeBackgroundSample$1.class
 hdfs\ConfiguratiionPrinter.class
 hdfs\FileSystemCat.class
 nonaction\TimeServer$1.class
+hdfs\MaxTemperatureReducer.class
 nonaction\multy\TimeServer$1.class
 nonaction\Echo\EchoClient$1.class
 zookeeper\ZkStat.class
