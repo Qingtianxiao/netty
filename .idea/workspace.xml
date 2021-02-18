@@ -4,88 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98162ef9-6ff5-4fc2-89e0-0e361b6d4385" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MaxTemperatureDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MaxTemperatureWithCounters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/MinimalMapReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/NcdcRecordParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/WifteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdfs/readMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P6/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nonaction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/Callback_MyService_hellow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServiceHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServicePrx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServicePrxHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/MyServicePrxHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_Marker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDelD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDelM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceDisp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/code/_MyServiceOperationsNC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/file/myservice.ice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testice/myCode/MyServiceImpl.java" afterDir="false" />
+    <list default="true" id="98162ef9-6ff5-4fc2-89e0-0e361b6d4385" name="Default Changelist" comment="开始刷leetcode&#10;同时增加Util类，主要是添加自己的工具。">
+      <change afterPath="$PROJECT_DIR$/src/main/java/future/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/future/FutureData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/future/Host.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/future/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/future/RealData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hbase/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/DynamicDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/ExceptionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/StaticDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/TestJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Bird3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/BirdLogProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/BirdTimeProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/DynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/DynamicProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/IHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/InvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/JavaCompiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Proxy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/TimeProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/TimeProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/proxy/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/ConnectionDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/ConnectionPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/Daemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/DefaultThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/Interrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/Piped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/Profiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/Shutdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/ThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/thread/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P0403/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P10/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P11/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P110/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P110/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P9/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/P9/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo1/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo1/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo1/MyReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo2/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo2/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo2/MyReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo3/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapreduce/demo3/MyReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nio/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nio/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nio/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/action/Echo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/action/Echo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/action/EchoServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/action/EchoServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/followMe/Demo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/followMe/Demo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/followMe/Demo1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/followMe/Demo1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/followMe/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/followMe/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hdfs/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hdfs/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/followMe/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/followMe/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/followMe/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/followMe/Demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/followMe/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/followMe/Demo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/geohash/MysqlDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geohash/MysqlDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/geohash/RandomLangtitudeAndLatitude.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geohash/RandomLangtitudeAndLatitude.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/BulkLoadSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/BulkLoadSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/FileSystemCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/FileSystemCat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/FileSystemDoubleCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/FileSystemDoubleCat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/HbaseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/HbaseMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/URLCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/URLCat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hdfs/WriteSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hdfs/WriteSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kafka/SimpleConsumerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kafka/SimpleConsumerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/Echo/EchoServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/TimeClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/TimeClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/TimeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/TimeClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/TimeClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/TimeClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/TimeServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/TimeServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/TimeServer$ChildChannelHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/TimeServer$ChildChannelHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/TimeServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/TimeServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/TimeServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/TimeServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/UserInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer$ChildChannelHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer$ChildChannelHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nonaction/multy/TimeServerHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/CreateNodeBackgroundSample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/CreateNodeBackgroundSample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/CreateNodeBackgroundSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/CreateNodeBackgroundSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/CreateSessionSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/CreateSessionSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/CuratorClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/CuratorClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/GetDataSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/GetDataSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/NodeCacheSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zookeeper/SetDataSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zookeeper/SetDataSample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/netty-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/netty-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +104,7 @@
       <list>
         <option value="package-info" />
         <option value="Ice file" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -154,7 +144,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/ligc/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/jvm/proxy" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -167,6 +157,8 @@
       <recent name="nonaction" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\jvm\proxy" />
+      <recent name="C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\future" />
       <recent name="C:\Users\LiJX\Desktop\hadoop\netty\src\main\resources" />
       <recent name="C:\Users\LiJX\Desktop\hadoop\netty\src\main\java\conf" />
     </key>
@@ -174,13 +166,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Util">
-    <configuration name="MinimalMapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hdfs.MinimalMapReduce" />
+  <component name="RunManager" selected="Application.ConnectionPoolTest">
+    <configuration name="ConnectionPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.thread.ConnectionPoolTest" />
       <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hdfs.*" />
+          <option name="PATTERN" value="jvm.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.P6.Solution" />
+    <configuration name="Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.thread.Join" />
       <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.P6.*" />
+          <option name="PATTERN" value="jvm.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.P5.Solution" />
+    <configuration name="Profiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.thread.Profiler" />
       <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.P5.*" />
+          <option name="PATTERN" value="jvm.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nonaction.Test" />
+    <configuration name="Shutdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.thread.Shutdown" />
       <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nonaction.*" />
+          <option name="PATTERN" value="jvm.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hdfs.Util" />
+    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.thread.WaitNotify" />
       <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hdfs.*" />
+          <option name="PATTERN" value="jvm.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,26 +232,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Util" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MinimalMapReduce" />
+        <item itemvalue="Application.ConnectionPoolTest" />
+        <item itemvalue="Application.Profiler" />
+        <item itemvalue="Application.Join" />
+        <item itemvalue="Application.WaitNotify" />
+        <item itemvalue="Application.Shutdown" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +271,14 @@
       <workItem from="1610597613100" duration="22725000" />
       <workItem from="1611369061461" duration="2306000" />
       <workItem from="1611373072235" duration="31262000" />
-      <workItem from="1612069399038" duration="7627000" />
+      <workItem from="1612069399038" duration="7959000" />
+      <workItem from="1612080381712" duration="25448000" />
+      <workItem from="1612533915456" duration="4855000" />
+      <workItem from="1612575663472" duration="1113000" />
+      <workItem from="1612578471803" duration="1312000" />
+      <workItem from="1612586607100" duration="14459000" />
+      <workItem from="1613296431975" duration="8833000" />
+      <workItem from="1613443458815" duration="15526000" />
     </task>
     <task id="LOCAL-00001" summary="添加了MRUnit、可以测试MR；本地环境增加了hadoop；idea完成了升级后的配置">
       <created>1611393155556</created>
@@ -290,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611393155556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="开始刷leetcode&#10;同时增加Util类，主要是添加自己的工具。">
+      <created>1612079579649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612079579649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +315,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加了MRUnit、可以测试MR；本地环境增加了hadoop；idea完成了升级后的配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了MRUnit、可以测试MR；本地环境增加了hadoop；idea完成了升级后的配置" />
+    <MESSAGE value="开始刷leetcode&#10;同时增加Util类，主要是添加自己的工具。" />
+    <option name="LAST_COMMIT_MESSAGE" value="开始刷leetcode&#10;同时增加Util类，主要是添加自己的工具。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -349,6 +354,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/P5/Solution.java</url>
           <line>7</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/P10/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jvm/proxy/DynamicProxyTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

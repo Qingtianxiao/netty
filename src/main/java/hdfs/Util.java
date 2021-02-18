@@ -34,9 +34,9 @@ public class Util {
                     ".txt").getChannel();
             for(int j = 0; j < size; j ++){
                 while(buffer.position() < 1024 * 1024 - 27){
-                    buffer.put(createUserNum().getBytes());
+                    buffer.put(createUserNum(7).getBytes());
                     buffer.put("\t".getBytes());
-                    buffer.put(createUserNum().getBytes());
+                    buffer.put(createUserNum(7).getBytes());
                     buffer.put(System.lineSeparator().getBytes());
                 }
                 buffer.flip();
@@ -48,10 +48,10 @@ public class Util {
 
     }
 
-    public static String createUserNum(){
+    public static String createUserNum(int count){
         StringBuffer sb = new StringBuffer();
         int now;
-        for(int i = 0; i < 11; i ++){
+        for(int i = 0; i < count; i ++){
             now = (int)(Math.random() * 9);
             sb.append(new StringBuffer(now + ""));
         }

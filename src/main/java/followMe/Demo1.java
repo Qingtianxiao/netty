@@ -42,6 +42,7 @@ public class Demo1 {
                 }
             });
             future.channel().closeFuture().sync();
+            Thread.sleep(Integer.MAX_VALUE);
         } finally {
             bossGroup.shutdownGracefully();
             workGroup.shutdownGracefully();
